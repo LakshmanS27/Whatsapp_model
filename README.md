@@ -1,16 +1,20 @@
 # whatsapp
 
-A new Flutter project.
+A new flutter project, which is done in the views of creating a simple whatsapp model with 3 switching tabs, the icons,text and buttons presented in the screens does not have any actions fixed with them.
 
-## Getting Started
+## Output:
 
-This project is a starting point for a Flutter application.
+Chat Screen:
 
-A few resources to get you started if this is your first Flutter project:
+![homescreen](https://github.com/LakshmanS27/Whatsapp_model/assets/113196532/e1dc71e6-30fd-4983-a966-84ded8bd3aec)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Status Screen:
+
+![statuscreen](https://github.com/LakshmanS27/Whatsapp_model/assets/113196532/ae111499-5b90-4e62-8482-126f17e64f55)
+
+Call Screen:
+
+![callscreen](https://github.com/LakshmanS27/Whatsapp_model/assets/113196532/754982e5-3331-4dca-a005-53fb33c4e5fb)
+
+
